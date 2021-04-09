@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/UserManagement_3w_1_JSP_HungKD">
+    <Resource name ="DBConn" auth="Container" type="javax.sql.DataSource" username="sa" password="140383"
+                driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+                url="jdbc:sqlserver://localhost:1433;databaseName=User_Management"/>
+</Context>
